@@ -1,3 +1,4 @@
 baseURL = "https://jackcary.com/"
 languageCode = "en-us"
+theme = "blank"
 title = "Jack Cary"
