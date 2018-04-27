@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Jack Cary"
 enableRobotsTXT = true
 googleAnalytics = "UA-105680531-1"
+metaDataFormat = "toml"
