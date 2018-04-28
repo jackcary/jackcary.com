@@ -4,3 +4,10 @@ title = "Jack Cary"
 enableRobotsTXT = true
 googleAnalytics = "UA-105680531-1"
 metaDataFormat = "toml"
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  title = "Contact"
+  url = "/contact/"
+  weight = 100
