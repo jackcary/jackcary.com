@@ -5,7 +5,7 @@ title = "Contact"
 
 +++
 
-[jack@jackcary.com](jack@jackcary.com "Email Jack Cary")
+[jack@jackcary.com](mailto:jack@jackcary.com "Email Jack Cary")
 
 [LinkedIn](https://www.linkedin.com/in/jackcary/ "Jack Cary on LinkedIn")
 
