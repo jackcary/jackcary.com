@@ -16,9 +16,15 @@ a {
 h1 {
   display: block;
   text-align: center;
-  font-size: 6em;
   text-transform: uppercase;
 }
+
+h2 {
+  display: block;
+  text-align: center;
+  color: green;
+}
+
 nav.site-nav {
   margin: 0;
   padding: 0;
