@@ -6,7 +6,6 @@
     <title>{{ block "title" . }}
       {{ .Site.Title }}
     {{ end }}</title>
-  <style>{{ readFile "static/css/critical.css" | safeCSS }}</style>
   <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
   </head>
   <body>

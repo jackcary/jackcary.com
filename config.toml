@@ -8,8 +8,29 @@ googleAnalytics = "UA-105680531-1"
 metaDataFormat = "toml"
 
 [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  title = "Home"
+  url = "/"
+  weight = 100
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About"
+  url = "/about/"
+  weight = 200
+
+[[menu.main]]
+  identifier = "services"
+  name = "Services"
+  title = "Services"
+  url = "/services/"
+  weight = 300
+
+[[menu.main]]
   identifier = "contact"
   name = "Contact"
   title = "Contact"
   url = "/contact/"
-  weight = 100
+  weight = 400

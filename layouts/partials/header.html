@@ -1,10 +1,7 @@
-<nav>
-  <section>
-    <a href="{{ "/" | absURL }}">{{ .Site.Title }}</a>
-    {{ with .Site.Menus.main }}
-      {{ range . }}
-        &nbsp;<a href="{{ .URL }}">{{ .Name }}</a>
-      {{ end }}
+<nav class="site-nav">
+  <ul class="site-nav">
+    {{ range .Site.Menus.main }}
+      <li class="site-nav"><a class="site-nav" href="{{ .URL }}">{{ .Name }}</a></li>
     {{ end }}
-  </section>
+  </ul>
 </nav>

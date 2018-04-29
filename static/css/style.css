@@ -1,6 +1,40 @@
-body {
+html, body {
  margin: 0;
  padding: 0;
- background: #ffffff;  
- font-family: -apple-system, BlinkMacSystemFont, “Segoe UI”, “Roboto”, “Oxygen”, “Ubuntu”, “Cantarell”,“Fira Sans”, “Droid Sans”, “Helvetica Neue”, sans-serif;
+ background: #ffffff;
+ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+nav.site-nav {
+  margin: 0;
+  padding: 0;
+}
+
+ul.site-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #000000;
+}
+
+ul.site-nav li {
+  float: left;
+}
+
+ul.site-nav li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul.site-nav li.right {
+  float: right;
+}
+
+@media screen and (max-width: 600px) {
+  ul.site-nav li.right,
+  ul.site-nav li {float: none;}
 }
