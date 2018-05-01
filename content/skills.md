@@ -15,3 +15,6 @@ Jenkins, Octopus Deploy
 
 ## VM and Containers
 VMWare, Docker
+
+## Cloud Providers
+Rackspace, Azure
