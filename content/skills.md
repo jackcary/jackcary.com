@@ -28,7 +28,7 @@ Rackspace Cloud, Microsoft Azure
 ## Software Development Methodologies and Paradigms
 DevOps, Agile (Scrum), Kanban, MVP, RAD
 
-##Load Balancing
+## Load Balancing
 HAProxy, Rackspace Load Balancer, F5 Load Balancer, Azure Load Balancer
 
 ## Web Servers
