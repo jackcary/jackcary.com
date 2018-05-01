@@ -13,6 +13,31 @@ a {
   text-decoration: none;
 }
 
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+a.link-button {
+    background-color: green;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+/*
+a:hover, a:active {
+    background-color: red;
+}
+*/
+
 h1 {
   display: block;
   text-align: center;
@@ -23,6 +48,15 @@ h2 {
   display: block;
   text-align: center;
   color: green;
+}
+
+section.page-section {
+  text-align: left;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 600px;
+  padding-right: 10%;
+  padding-left: 10%;
 }
 
 nav.site-nav {
