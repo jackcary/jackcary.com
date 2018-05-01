@@ -6,6 +6,8 @@ subtitle = "Jack Cary"
 
 +++
 
+I am always interested in new and exciting projects.  Let's get started!
+
 [jack@jackcary.com](mailto:jack@jackcary.com "Email Jack Cary")
 
 [LinkedIn](https://www.linkedin.com/in/jackcary/ "Jack Cary on LinkedIn")
