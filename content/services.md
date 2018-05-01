@@ -5,3 +5,11 @@ title = "Services"
 subtitle = "For your business"
 
 +++
+
+## Business Automation
+## Continuous Delivery
+## Cloud Orchestration
+## RESTful Web Services
+## Technology Evaluation
+## ELT and Data Migration
+## Custom Software Development
