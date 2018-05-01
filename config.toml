@@ -8,9 +8,9 @@ googleAnalytics = "UA-105680531-1"
 metaDataFormat = "toml"
 
 [[menu.main]]
-  identifier = "home"
-  name = "Home"
-  title = "Home"
+  identifier = "jack cary"
+  name = "Jack Cary"
+  title = "Jack Cary"
   url = "/"
   weight = 100
 
