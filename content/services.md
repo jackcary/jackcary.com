@@ -11,5 +11,5 @@ subtitle = "For your business"
 ## Cloud Orchestration
 ## RESTful Web Services
 ## Technology Evaluation
-## ELT and Data Migration
+## ETL and Data Migration
 ## Custom Software Development
