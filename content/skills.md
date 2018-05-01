@@ -5,16 +5,55 @@ draft = false
 +++
 
 ## Languages
-Golang, Javascript, C#, Bash
+Golang, Javascript, C#, Java, Bash, Python, Powershell, SQL
 
-## Operating Systems
-CentOS, Ubuntu, Debian
+## Operating Systems and Distros
+Linux, macOS, Windows Server, CentOS, Ubuntu, Debian, Linux Mint  
+
+## Source Code Management and Revision Control Systems
+Git, GitHub, Bitbucket, Perforce, Subversion (SVN), ClearCase, VSS
+
+## Databases and Data Stores
+MongoDB, Apache Solr, MySQL, Microsoft SQL Server, Apache HBase, Azure Blob Storage
 
 ## Continuous Build / Deploy
-Jenkins, Octopus Deploy
+Jenkins, Team City, Octopus Deploy, Netlify
 
-## VM and Containers
-VMWare, Docker
+## Virtualization and Containerization
+VMWare, VirtualBox, Docker
 
 ## Cloud Providers
-Rackspace, Azure
+Rackspace Cloud, Microsoft Azure
+
+## Software Development Methodologies and Paradigms
+DevOps, Agile (Scrum), Kanban, MVP, RAD
+
+##Load Balancing
+HAProxy, Rackspace Load Balancer, F5 Load Balancer, Azure Load Balancer
+
+## Web Servers
+Nginx, Apache Tomcat, Golang (net/http), Node.js, Jetty, IIS
+
+## Queuing and Message Brokers
+RabbitMQ, ActiveMQ
+
+## Caching
+Memcached
+
+## Proactive Monitoring
+Nagios
+
+## Markup Languages and Data Serialization Formats
+Markdown, HTML, TOML, YAML, JSON, XML
+
+## Templating
+Golang Templates, Azure Templates, Heat Templates
+
+## Content Management Systems
+Weebly, Wordpress
+
+## Online Payment Processors
+Stripe, Paypal
+
+## Static Website Generators
+Hugo
