@@ -5,8 +5,9 @@ title = "Contact"
 subtitle = "Jack Cary"
 
 +++
+## I'm interested in new and exciting projects.
 
-I am always interested in new and exciting projects.  Let's get started!
+## Let's get started!
 
 [jack@jackcary.com](mailto:jack@jackcary.com "Email Jack Cary")
 

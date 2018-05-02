@@ -1,4 +1,13 @@
 <footer>
+  <nav class="navbar navbar-expand-sm navbar-light bg-light">
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        {{ range .Site.Menus.main }}
+          <a class="nav-item nav-link" href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </div>
+    </div>
+  </nav>
   <section>
     © 2018 JACK CARY SOFTWARE CONSULTANT LLC
   </section>

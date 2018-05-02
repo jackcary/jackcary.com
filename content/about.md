@@ -24,4 +24,4 @@ When I'm not busy freeing fellow humans from their manual, repetitive, and error
 
 -Jack
 
-<a href="/contact/" class="link-button">GET MY BRAIN ON YOUR PROJECT</a>
+<a href="/contact/">GET MY BRAIN ON YOUR PROJECT</a>
