@@ -12,4 +12,6 @@ It's continuously built, deployed, and hosted by [Netlify](https://www.netlify.c
 
 Source code for the project can be found on [GitHub](https://github.com/jackcary/jackcary.com).
 
-<a href="/contact/" class="link-button">GET MY BRAIN ON YOUR PROJECT</a>
+<div class="text-center mt-5 mb-5">
+  <a href="/contact/" class="btn btn-primary text-center">GET MY BRAIN ON YOUR PROJECT</a>
+</div>

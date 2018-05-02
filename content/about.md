@@ -26,4 +26,6 @@ When I'm not busy freeing fellow humans from their manual, repetitive, and error
 
 -Jack
 
-<a href="/contact/">GET MY BRAIN ON YOUR PROJECT</a>
+<div class="text-center">
+  <a href="/contact/" class="btn btn-primary text-center mt-5 mb-5">GET MY BRAIN ON YOUR PROJECT</a>
+</div>

@@ -60,3 +60,7 @@ Hugo
 
 ## Static Website Publishing and Hosting
 Netlify, GitHub Pages, Bitbucket.io, Gitlab Pages, surge.sh
+
+<div class="text-center">
+  <a href="/contact/" class="btn btn-primary text-center mt-5 mb-5">GET MY BRAIN ON YOUR PROJECT</a>
+</div>

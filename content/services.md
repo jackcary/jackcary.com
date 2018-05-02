@@ -13,3 +13,7 @@ subtitle = "For your business"
 ## Technology Evaluation
 ## ETL and Data Migration
 ## Custom Software Development
+
+<div class="text-center">
+  <a href="/contact/" class="btn btn-primary text-center mt-5 mb-5">GET MY BRAIN ON YOUR PROJECT</a>
+</div>
