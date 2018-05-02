@@ -7,6 +7,10 @@ enableRobotsTXT = true
 googleAnalytics = "UA-105680531-1"
 metaDataFormat = "toml"
 
+[params]
+subtitle = "Software Consultant"
+location = "Burlington, Vermont"
+
 [[menu.main]]
   identifier = "about"
   name = "About"
