@@ -29,8 +29,15 @@ metaDataFormat = "toml"
   weight = 300
 
 [[menu.main]]
+  identifier = "skills"
+  name = "Skills"
+  title = "Skills"
+  url = "/skills/"
+  weight = 500
+
+[[menu.main]]
   identifier = "contact"
   name = "Contact"
   title = "Contact"
   url = "/contact/"
-  weight = 400
+  weight = 600
