@@ -16,8 +16,8 @@ Git, GitHub, Bitbucket, Perforce, Subversion (SVN), ClearCase, VSS
 ## Databases and Data Stores
 MongoDB, Apache Solr, MySQL, Microsoft SQL Server, Apache HBase, Azure Blob Storage
 
-## Continuous Build / Deploy
-Jenkins, Team City, Octopus Deploy, Netlify
+## Continuous Integration, Deployment, Delivery
+Jenkins, Team City, Octopus Deploy, Netlify, Apache Maven
 
 ## Virtualization and Containerization
 VMWare, VirtualBox, Docker
