@@ -55,5 +55,8 @@ Weebly, Wordpress
 ## Online Payment Processors
 Stripe, Paypal
 
-## Static Website Generators
+## Static Website Generation
 Hugo
+
+## Static Website Publishing and Hosting
+Netlify, GitHub Pages, Bitbucket.io, Gitlab Pages, surge.sh
