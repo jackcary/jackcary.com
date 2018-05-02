@@ -6,9 +6,11 @@ subtitle = "Jack Cary"
 
 +++
 
-![Jack Cary](/img/jack-cary.jpg "Jack Cary")
+<div class="text-center mb-5 mt-0">
+  <img src="/img/jack-cary.jpg" class="img-fluid" alt="Jack Cary" />
+</div>
 
-Hello World,
+Hello, World!
 
 I'm Jack Cary, an independent software consultant in Burlington, Vermont.
 
