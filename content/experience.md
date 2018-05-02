@@ -10,11 +10,11 @@ draft = false
 <p class="mb-5"></p>
 
 ### Senior Software Engineer
-#### MyWebGrocer Inc. 2011-2016
+#### MyWebGrocer, Inc. 2011-2016
 <p class="mb-5"></p>
 
 ### Lead Software Engineer
-#### GE Healthcare Inc. (formerly IDX) 2004-2011
+#### GE Healthcare, Inc. (formerly IDX) 2004-2011
 <p class="mb-5"></p>
 
 ### Software Consultant
@@ -30,7 +30,7 @@ draft = false
 <p class="mb-5"></p>
 
 ### GUI Developer / Software Specialist
-#### Cirrus Technologies, Inc. 1995-1998
+#### Cirrus Technology, Inc. 1995-1998
 <p class="mb-5"></p>
 
 <div class="text-center">
