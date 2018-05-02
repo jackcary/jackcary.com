@@ -8,21 +8,28 @@ googleAnalytics = "UA-105680531-1"
 metaDataFormat = "toml"
 
 [params]
-subtitle = "Software Consultant"
-location = "Burlington, Vermont"
+  subtitle = "Software Consultant"
+  location = "Burlington, Vermont"
 
 [[menu.main]]
   identifier = "about"
   name = "About"
   title = "About"
   url = "/about/"
-  weight = 200
+  weight = 100
 
 [[menu.main]]
   identifier = "services"
   name = "Services"
   title = "Services"
   url = "/services/"
+  weight = 200
+
+[[menu.main]]
+  identifier = "experience"
+  name = "Experience"
+  title = "Experience"
+  url = "/experience/"
   weight = 300
 
 [[menu.main]]
@@ -30,11 +37,11 @@ location = "Burlington, Vermont"
   name = "Skills"
   title = "Skills"
   url = "/skills/"
-  weight = 500
+  weight = 400
 
 [[menu.main]]
   identifier = "contact"
   name = "Contact"
   title = "Contact"
   url = "/contact/"
-  weight = 600
+  weight = 500
