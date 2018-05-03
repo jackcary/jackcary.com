@@ -9,10 +9,10 @@ subtitle = "Jack Cary"
 
 ### Let's get started!
 
-[jack@jackcary.com](mailto:jack@jackcary.com "Email Jack Cary")
+<a href="mailto:jack@jackcary.com"><i class="far fa-envelope fa-2x"></i>&nbsp;&nbsp;jack@jackcary.com</a>
 
-[LinkedIn](https://www.linkedin.com/in/jackcary/ "Jack Cary on LinkedIn")
+<a href="https://www.linkedin.com/in/jackcary/"><i class="fab fa-linkedin fa-2x"></i>&nbsp;&nbsp;Jack Cary on LinkedIn</a>
 
-[Twitter](https://twitter.com/jackcary "Jack Cary on Twitter")
+<a href="https://github.com/jackcary/"><i class="fab fa-github fa-2x"></i>&nbsp;&nbsp;Jack Cary on GitHub</a>
 
-[GitHub](https://github.com/jackcary "Jack Cary on GitHub")  
+<a href="https://twitter.com/jackcary/"><i class="fab fa-twitter fa-2x"></i>&nbsp;&nbsp;@jackcary</a>
