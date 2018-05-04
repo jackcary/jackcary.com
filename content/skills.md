@@ -84,7 +84,7 @@ Hugo
 Netlify, GitHub Pages, Bitbucket.io, Gitlab Pages, Surge.sh
 <p class="mb-5"></p>
 
-### Caffeinated Drink Consumption
+### Caffeinated Beverage Consumption
 Coffee, Green Tea
 <p class="mb-5"></p>
 
