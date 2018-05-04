@@ -7,13 +7,26 @@ subtitle = "For your business"
 +++
 
 <h3><i class="fas fa-cogs fa-fw"></i>&nbsp;&nbsp;Business Process Automation</h3>
+<p class="mb-5"></p>
+
 <h3><i class="fas fa-sync fa-fw"></i>&nbsp;&nbsp;Continuous Delivery</h3>
+<p class="mb-5"></p>
+
 <h3><i class="fas fa-cloud fa-fw"></i>&nbsp;&nbsp;Cloud Orchestration</h3>
+<p class="mb-5"></p>
+
 <h3><i class="fas fa-code fa-fw"></i>&nbsp;&nbsp;RESTful Web Services</h3>
+<p class="mb-5"></p>
+
 <h3><i class="fas fa-balance-scale fa-fw"></i>&nbsp;&nbsp;Technology Evaluation</h3>
+<p class="mb-5"></p>
+
 <h3><i class="fas fa-database fa-fw"></i>&nbsp;&nbsp;ETL and Data Migration</h3>
+<p class="mb-5"></p>
+
 <h3><i class="fas fa-code-branch fa-fw"></i>&nbsp;&nbsp;Custom Software Development
+<p class="mb-5"></p>
 
 <div class="text-center">
-  <a href="/contact/" class="btn btn-primary text-center mt-5 mb-5">GET MY BRAIN ON YOUR PROJECT</a>
+  <a href="/contact/" class="btn btn-primary text-center btn-lg mt-5 mb-5">GET MY BRAIN ON YOUR PROJECT</a>
 </div>
