@@ -18,22 +18,22 @@ I specialize in Business Process Automation, Cloud Orchestration, Systems Admini
 
 I offer cost-effective software solutions to businesses of all sizes, ultimately saving valuable time and resources through the power of automation.
 
-With over 20 years real-world <a href="/experience/">experience</a> designing and developing business software, I have the <a href="/skills/">skills</a> and expertise to meet the needs of your project.
+With over 20 years real-world <a href="/experience/" class="text-green">experience</a> designing and developing business software, I have the <a href="/skills/" class="text-green">skills</a> and expertise to meet the needs of your project.
 
 I have successfully implemented automation solutions across a wide range of industries, including healthcare, transportation, hospitality, event management, and digital marketing. I am eager to apply my knowledge to your business and enable you to focus on what's really important: providing high-quality products and services to your customers.
 
-When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking <a href="https://en.wikipedia.org/wiki/Mount_Mansfield">Mount Mansfield</a> and <a href="https://en.wikipedia.org/wiki/Camel%27s_Hump">Camel's Hump</a>, enjoying international travel, running long distances with my wife Chelsea, and playing the ancient strategy game of <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
+When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking <a href="https://en.wikipedia.org/wiki/Mount_Mansfield" class="text-green">Mount Mansfield</a> and <a href="https://en.wikipedia.org/wiki/Camel%27s_Hump" class="text-green">Camel's Hump</a>, enjoying international travel, running long distances with my wife Chelsea, and playing the ancient strategy game of <a href="https://en.wikipedia.org/wiki/Go_(game)" class="text-green">Go</a>.
 
 <div class="text-center">
-  <a href="/contact/" class="btn btn-primary text-center btn-lg mt-2 mb-5">GET MY BRAIN ON YOUR PROJECT</a>
+  <a href="/contact/" class="btn text-center btn-lg mt-2 mb-5 bg-green">GET MY BRAIN ON YOUR PROJECT</a>
 </div>
 
 ## About this Website
 <p class="mb-2"></p>
 
-This website uses the open-source static site generator [Hugo](https://gohugo.io).
+This website uses the open-source static site generator <a href="https://gohugo.io/" class="text-green">Hugo</a>.
 
-It's continuously built, deployed, and hosted by [Netlify](https://www.netlify.com).
+It's continuously built, deployed, and hosted by <a href="https://www.netlify.com/" class="text-green">Netlify</a>.
 
-Source code for the project can be found on [GitHub](https://github.com/jackcary/jackcary.com).
+Source code for the project can be found on <a href="https://github.com/jackcary/jackcary.com/" class="text-green">GitHub</a>.
 <p class="mb-5"></p>
