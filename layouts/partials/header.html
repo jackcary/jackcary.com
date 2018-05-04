@@ -1,12 +1,12 @@
-<nav class="navbar navbar-expand-sm navbar-dark bg-green">
-  <a class="navbar-brand text-uppercase" href="/">{{ .Site.Title }}</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+<nav class="navbar navbar-expand-sm navbar-dark bg-green py-1">
+  <a class="navbar-brand text-uppercase py-0" href="/">{{ .Site.Title }}</a>
+  <button class="navbar-toggler py-0" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon py-0"></span>
   </button>
-  <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
+  <div class="collapse navbar-collapse justify-content-end py-0" id="navbarNavAltMarkup">
+    <div class="navbar-nav py-0">
       {{ range .Site.Menus.main }}
-        <a class="nav-item nav-link text-uppercase" href="{{ .URL }}">{{ .Name }}</a>
+        <a class="nav-item nav-link text-uppercase py-0" href="{{ .URL }}">{{ .Name }}</a>
       {{ end }}
     </div>
   </div>
