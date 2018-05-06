@@ -6,7 +6,7 @@ subtitle = "Software Consultant"
 
 +++
 
-<p class="h1 mb-3">I help business leaders streamline their operations through the power of <a href="/services/" class="text-custom">software automation</a>.</p>
+<p class="h1 mb-3">I help business leaders streamline operations through the power of <a href="/services/" class="text-custom">software automation</a>.</p>
 
 <p class="h4 mb-3">Deliver your products and services with increased quality, speed, and efficiency.</p>
 
