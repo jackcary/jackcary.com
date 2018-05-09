@@ -16,7 +16,7 @@ I'm Jack Cary, an independent software consultant in Burlington, Vermont.
 
 I specialize in Business Process Automation, Cloud Orchestration, Systems Administration, Continuous Delivery, and RESTful Web Service development.
 
-I offer cost-effective software solutions to businesses of all sizes, ultimately saving valuable time and resources through the power of automation.
+I offer cost-effective software <a href="/services/">solutions</a> to businesses of all sizes, ultimately saving valuable time and resources through the power of automation.
 
 With over 20 years real-world <a href="/experience/" >experience</a> designing and developing business software, I have the <a href="/skills/" >skills</a> and expertise to meet the needs of your project.
 
