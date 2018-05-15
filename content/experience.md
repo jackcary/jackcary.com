@@ -5,8 +5,8 @@ draft = false
 +++
 
 
-### Independent Software Consultant
-#### Self-Employed 2017-Present
+### Software Consultant
+#### Independent Contractor 2017-Present
 <p class="mb-5"></p>
 
 ### Senior Software Engineer
