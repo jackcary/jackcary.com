@@ -6,12 +6,15 @@ subtitle = "Software Consultant"
 
 +++
 
-<p class="display-4 mb-3">I help business leaders streamline operations through the power of <a href="/services/">software automation</a>.</p>
+<p class="text-center mt-5 mb-5">
+  <a href="mailto:jack@jackcary.com" title="Email Jack Cary"><i class="far fa-envelope fa-2x fa-fw mx-3"></i></a>
+  <a href="https://www.linkedin.com/in/jackcary/" title="Jack Cary on LinkedIn"><i class="fab fa-linkedin fa-2x fa-fw mx-3"></i></a>
+  <a href="https://github.com/jackcary/" title="Jack Cary on GitHub"><i class="fab fa-github fa-2x fa-fw mx-3"></i></a>
+  <a href="https://twitter.com/jackcary/" title="Jack Cary on Twitter"><i class="fab fa-twitter fa-2x fa-fw mx-3"></i></a>
+</p>
 
-<p class="h4 mb-3">Deliver your products and services with increased quality, speed, and efficiency.</p>
-
-<p class="h4 mb-3">Focus your time on more important tasks and let the software do the rest!</p>
+<p class="display-4 text-center mt-5 mb-5">I help business leaders<br>streamline operations<br>through the power of<br> <a href="/services/">software automation</a></p>
 
 <div class="text-center mt-5 mb-5">
-  <a href="/contact/" class="btn text-center btn-lg bg-primary">GET MY BRAIN ON YOUR PROJECT</a>
+  <a href="/contact/" class="btn text-center btn-lg btn-custom">GET MY BRAIN ON YOUR PROJECT</a>
 </div>

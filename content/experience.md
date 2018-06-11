@@ -34,5 +34,5 @@ draft = false
 <p class="mb-5"></p>
 
 <div class="text-center">
-  <a href="/contact/" class="btn text-center btn-lg mt-2 mb-5 bg-primary">GET MY BRAIN ON YOUR PROJECT</a>
+  <a href="/contact/" class="btn text-center btn-lg mt-2 mb-5 btn-custom">GET MY BRAIN ON YOUR PROJECT</a>
 </div>
