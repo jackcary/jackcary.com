@@ -1,17 +1,16 @@
-<nav class="navbar navbar-expand-sm bg-custom py-1 align-middle sticky-top">
-  <a class="navbar-brand text-uppercase align-middle" href="/"><img src="/img/jack-cary-logo-sm.png" width="32" height="32" class="d-inline-block align-top mr-3" alt="">{{ .Site.Title }}</a>
-  <button class="navbar-toggler py-0 align-middle" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon align-middle">
-      <i class="fas fa-bars align-middle"></i>
-    </span>
+
+<nav class="navbar navbar-expand-md">
+  <a class="navbar-brand text-uppercase align-middle" href="/"><img src="/img/jack-cary-logo-sm.png" width="32" height="32" class="d-inline-block align-middle mr-3" alt="">{{ .Site.Title }}</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <i class="navbar-toggler-icon fas fa-bars"></i>
   </button>
-  <div class="collapse navbar-collapse justify-content-end py-0" id="navbarNavAltMarkup">
-    <div class="navbar-nav py-0 align-middle">
+  <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+    <div class="navbar-nav align-items-center">
       {{ range .Site.Menus.main }}
         {{ if eq .Name "Contact" }}
-          <a class="btn text-uppercase btn-custom mx-2 my-2 px-2 py-1 align-middle" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="btn text-uppercase btn-custom-dark align-middle rounded-0" href="{{ .URL }}">{{ .Name }}</a>
         {{else}}
-          <a class="nav-item nav-link text-uppercase mx-1 my-2 px-2 py-1 align-middle" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="nav-item nav-link text-uppercase align-middle" href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
     </div>

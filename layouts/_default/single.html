@@ -2,10 +2,16 @@
   {{ .Title }} &ndash; {{ .Site.Title }}
 {{ end }}
 {{ define "main" }}
-  <header>
-    <h1 class="display-3 text-uppercase text-center mt-5">{{ .Title }}</h1>
-  </header>
-  <section class="mt-5">
-    {{ .Content }}
-  </section>
+<div class="row">
+  <div class="col"></div>
+  <div class="col-sm-8">
+    <header>
+      <h1 class="display-3 text-uppercase text-center text-custom-highlight mb-5">{{ .Title }}</h1>
+    </header>
+    <section class="">
+      {{ .Content }}
+    </section>
+  </div>
+  <div class="col"></div>
+</div>
 {{ end }}

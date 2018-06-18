@@ -1,11 +1,25 @@
 {{ define "main" }}
-  <header>
-    <div class="text-center mb-5 mt-0">
-      <img src="/img/jack-cary-logo-lg.png" class="img-fluid pt-5" height="300" width="300" alt="Jack Cary" />
+<div class="row">
+  <div class="col bg-custom-dark"></div>
+  <div class="col-sm-8 bg-custom-dark">
+    <div class="jumbotron-fluid">
+      <div class="container">
+        <div class="text-center bg-custom-dark mt-5">
+          <img src="/img/jack-cary-logo-lg.png" class="img-fluid bg-custom-dark" height="256" width="256" alt="Jack Cary" />
+        </div>
+        <p class="display-1 text-uppercase text-center bg-custom-dark text-custom-highlight mt-5">{{ .Site.Title }}</p>
+        <p class="display-4 text-uppercase text-center bg-custom-dark text-light">{{ .Params.subtitle }}</p>
+        <p class="display-4 text-center bg-custom-dark text-custom-light">{{ .Params.location }}</p>
+      </div>
+      <p class="text-center mt-5 mb-5 bg-custom-dark">
+        <a href="mailto:jack@jackcary.com" title="Email Jack Cary"><i class="far fa-envelope fa-2x fa-fw mx-1"></i></a>
+        <a href="https://www.linkedin.com/in/jackcary/" title="Jack Cary on LinkedIn"><i class="fab fa-linkedin fa-2x fa-fw mx-1"></i></a>
+        <a href="https://github.com/jackcary/" title="Jack Cary on GitHub"><i class="fab fa-github fa-2x fa-fw mx-1"></i></a>
+        <a href="https://twitter.com/jackcary/" title="Jack Cary on Twitter"><i class="fab fa-twitter fa-2x fa-fw mx-1"></i></a>
+      </p>
+      <p class="display-4 text-center mt-5 mb-5 bg-custom-dark text-custom-light">I help business leaders<br>streamline operations<br>through the power of<br><a href="/services/" class="text-custom-highlight">software automation</a></p>
     </div>
-    <h1 class="display-1 text-uppercase text-center mt-5">{{.Site.Title}}</h1>
-    <p class="display-4 text-uppercase text-center mt-0">{{.Params.subtitle}}</p>
-    <p class="display-4 text-center mt-0">Burlington, Vermont</p>
-  </header>
-  <section class="mt-5">{{.Content}}</section>
+  </div>
+  <div class="col bg-custom-dark" ></div>
+</div>
 {{ end }}

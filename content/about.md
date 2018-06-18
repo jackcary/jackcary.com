@@ -7,7 +7,7 @@ subtitle = "Jack Cary"
 +++
 
 <div class="text-center mb-5 mt-0">
-  <img src="/img/jack-cary.jpg" class="img-fluid" alt="Jack Cary" />
+  <img src="/img/jack-cary.jpg" class="img-fluid" width="50%" alt="Jack Cary" />
 </div>
 
 Hello, World!
@@ -18,15 +18,11 @@ I specialize in Business Process Automation, Cloud Orchestration, Systems Admini
 
 I offer cost-effective software <a href="/services/">solutions</a> to businesses of all sizes, ultimately saving valuable time and resources through the power of automation.
 
-With over 20 years real-world <a href="/experience/" >experience</a> designing and developing business software, I have the <a href="/skills/" >skills</a> and expertise to meet the needs of your project.
+With over 20 years of real-world <a href="/experience/" >experience</a> designing and developing business software, I have the <a href="/skills/" >skills</a> and expertise to meet the needs of your project.
 
 I have successfully implemented automation solutions across a wide range of industries, including healthcare, transportation, hospitality, event management, and digital marketing. I am eager to apply my knowledge to your business and enable you to focus on what's really important: providing high-quality products and services to your customers.
 
 When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking <a href="https://en.wikipedia.org/wiki/Mount_Mansfield">Mount Mansfield</a> and <a href="https://en.wikipedia.org/wiki/Camel%27s_Hump">Camel's Hump</a>, enjoying international travel, running long distances with my wife Chelsea, and playing the ancient strategy game of <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
-
-<div class="text-center">
-  <a href="/contact/" class="btn text-center btn-lg mt-2 mb-5 btn-custom">GET MY BRAIN ON YOUR PROJECT</a>
-</div>
 
 ## About this Website
 <p class="mb-2"></p>

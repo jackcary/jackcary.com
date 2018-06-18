@@ -4,7 +4,6 @@ date = "2018-04-30T21:09:37-10:00"
 draft = false
 +++
 
-
 ### Software Consultant
 #### Independent Contractor 2017-Present
 <p class="mb-5"></p>
@@ -32,7 +31,3 @@ draft = false
 ### GUI Developer / Software Specialist
 #### Cirrus Technology, Inc. 1995-1998
 <p class="mb-5"></p>
-
-<div class="text-center">
-  <a href="/contact/" class="btn text-center btn-lg mt-2 mb-5 btn-custom">GET MY BRAIN ON YOUR PROJECT</a>
-</div>

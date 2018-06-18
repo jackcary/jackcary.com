@@ -26,7 +26,3 @@ subtitle = "For your business"
 
 <h3><i class="fas fa-code-branch fa-fw"></i>&nbsp;&nbsp;Custom Software Development
 <p class="mb-5"></p>
-
-<div class="text-center">
-  <a href="/contact/" class="btn text-center btn-lg mt-2 mb-5 btn-custom">GET MY BRAIN ON YOUR PROJECT</a>
-</div>
