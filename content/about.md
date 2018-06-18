@@ -11,7 +11,7 @@ subtitle = "Jack Cary"
 </div>
 
 # Hello, World!
-<p class="mb-2"></p>
+<p class="mb-5"></p>
 
 I'm Jack Cary, an independent software consultant in Burlington, Vermont.
 
@@ -28,7 +28,7 @@ When I'm not busy freeing fellow humans from their manual, repetitive, and error
 <p class="mb-5"></p>
 
 # About this Website
-<p class="mb-2"></p>
+<p class="mb-3"></p>
 
 This website uses the open-source static site generator <a href="https://gohugo.io/">Hugo</a>.
 
