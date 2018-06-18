@@ -8,7 +8,7 @@
     <div class="navbar-nav align-items-center">
       {{ range .Site.Menus.main }}
         {{ if eq .Name "Contact" }}
-          <a class="btn text-uppercase btn-custom-dark align-middle rounded-0" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="btn text-uppercase btn-custom-dark align-middle rounded-0 ml-2" href="{{ .URL }}">{{ .Name }}</a>
         {{else}}
           <a class="nav-item nav-link text-uppercase align-middle" href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}

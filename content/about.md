@@ -7,10 +7,11 @@ subtitle = "Jack Cary"
 +++
 
 <div class="text-center mb-5 mt-0">
-  <img src="/img/jack-cary.jpg" class="img-fluid" width="50%" alt="Jack Cary" />
+  <img src="/img/jack-cary.jpg" class="img-fluid" width="70%" alt="Jack Cary" />
 </div>
 
-Hello, World!
+# Hello, World!
+<p class="mb-2"></p>
 
 I'm Jack Cary, an independent software consultant in Burlington, Vermont.
 
@@ -24,7 +25,9 @@ I have successfully implemented automation solutions across a wide range of indu
 
 When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking <a href="https://en.wikipedia.org/wiki/Mount_Mansfield">Mount Mansfield</a> and <a href="https://en.wikipedia.org/wiki/Camel%27s_Hump">Camel's Hump</a>, enjoying international travel, running long distances with my wife Chelsea, and playing the ancient strategy game of <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
 
-## About this Website
+<p class="mb-5"></p>
+
+# About this Website
 <p class="mb-2"></p>
 
 This website uses the open-source static site generator <a href="https://gohugo.io/">Hugo</a>.
