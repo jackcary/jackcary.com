@@ -7,17 +7,20 @@ draft = false
 
 ## Summary of Qualifications
 <p class="mb-5"></p>
-<i class="fas fa-check fa-2x fa-fw mr-3 text-custom-highlight"></i>20+ years real-world experience developing business software solutions<br/><br/>
 
-<i class="fas fa-check fa-2x fa-fw mr-3 text-custom-highlight"></i>Autodidact, self-motivated, quick to learn new skills and technologies<br/><br/>
+<ul class="fa-ul">
+  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>20+ years real-world experience developing business software solutions</li>
 
-<i class="fas fa-check fa-2x fa-fw mr-3 text-custom-highlight"></i>Expert knowledge of software development life cycle and various methodologies<br/><br/>
+  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Autodidact, self-motivated, quick to learn new skills and technologies</li>
 
-<i class="fas fa-check fa-2x fa-fw mr-3 text-custom-highlight"></i>Experienced small business owner, adept at finding innovative budget-minded solutions<br/><br/>
+  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Expert knowledge of software development life cycle and various methodologies</li>
 
-<i class="fas fa-check fa-2x fa-fw mr-3 text-custom-highlight"></i>Technical lead with ability to fulfill project requirements on time and drive team success<br/><br/>
+  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Experienced small business owner, adept at finding innovative budget-minded solutions</li>
 
-<i class="fas fa-check fa-2x fa-fw mr-3 text-custom-highlight"></i>Focused on implementing elegant, resilient, fully-automated, and high-availability systems<br/><br/>
+  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Technical lead with ability to fulfill project requirements on time and drive team success</li>
+
+  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Focused on implementing elegant, resilient, fully-automated, and high-availability systems</li>
+</ul>
 
 <p class="mb-5"></p>
 
