@@ -3,26 +3,6 @@ date = "2018-04-24T19:38:49-10:00"
 draft = false
 title = "Services"
 subtitle = "For your business"
-
 +++
 
-<h3><i class="fas fa-cogs fa-fw"></i>&nbsp;&nbsp;Business Process Automation</h3>
-<p class="mb-5"></p>
-
-<h3><i class="fas fa-sync fa-fw"></i>&nbsp;&nbsp;Continuous Delivery</h3>
-<p class="mb-5"></p>
-
-<h3><i class="fas fa-cloud fa-fw"></i>&nbsp;&nbsp;Cloud Orchestration</h3>
-<p class="mb-5"></p>
-
-<h3><i class="fas fa-code fa-fw"></i>&nbsp;&nbsp;RESTful Web Services</h3>
-<p class="mb-5"></p>
-
-<h3><i class="fas fa-balance-scale fa-fw"></i>&nbsp;&nbsp;Technology Evaluation</h3>
-<p class="mb-5"></p>
-
-<h3><i class="fas fa-database fa-fw"></i>&nbsp;&nbsp;ETL and Data Migration</h3>
-<p class="mb-5"></p>
-
-<h3><i class="fas fa-code-branch fa-fw"></i>&nbsp;&nbsp;Custom Software Development
-<p class="mb-5"></p>
+{{< services >}}
