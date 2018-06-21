@@ -1,0 +1,8 @@
+<div class="text-center">
+  {{ range .Site.Data.services }}
+    <div class="text-center mb-5">
+      <i class="{{ .faClass }} mb-5"></i><h1 class="mt-3">{{ .name }}</h1>
+      <p class="mb-5">{{ .description }}</p>
+    <div>
+  {{ end }}
+</div>
