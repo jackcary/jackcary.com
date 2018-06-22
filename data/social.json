@@ -1,0 +1,25 @@
+[{
+		"name": "jack@jackcary.com",
+		"description": "",
+		"URL": "mailto:jack@jackcary.com",
+		"faClass": "far fa-envelope fa-5x fa-fw"
+	},
+	{
+		"name": "LinkenIn",
+		"description": "",
+		"URL": "https://www.linkedin.com/in/jackcary/",
+		"faClass": "fab fa-linkedin fa-5x fa-fw"
+	},
+	{
+		"name": "GitHub",
+		"description": "",
+		"URL": "https://github.com/jackcary/",
+		"faClass": "fab fa-github fa-5x fa-fw"
+	},
+	{
+		"name": "@jackcary",
+		"description": "",
+		"URL": "https://twitter.com/jackcary/",
+		"faClass": "fab fa-twitter fa-5x fa-fw"
+	}
+]
