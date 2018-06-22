@@ -1,0 +1,18 @@
+<div class="container">
+  <div class="row ">
+    {{ range .Site.Data.social }}
+      <div class="col-xl-4 mb-5">
+        <div class="card bg-dark h-100 w-100 text-center">
+          <div class="card-body">
+            <a href="{{ .URL }}"><i class="{{ .faClass }} text-center w-100 my-5"></i></a>
+            <a href="{{ .URL }}" class="card-title text-center align-middle w-100 mt-3">{{ .name }}</a>
+            <p class="card-text w-100">{{ .description }}</p>
+          </div>
+          <div class="card-footer w-100">
+            <small class="text-muted"></small>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
