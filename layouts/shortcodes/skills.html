@@ -1,0 +1,39 @@
+<div class="container">
+  {{ $.Scratch.Add "levelText" "" }}
+  {{ range .Site.Data.skills }}
+    <div class="row">
+      <div class="col-12">
+        <a class="display-4 ml-1">{{ .category.name }}</a>
+        <div class="card bg-dark w-100 text-left py-3 px-5 mb-5 mt-2">
+          <div class="card-body">
+            {{ range .category.skills }}
+              {{ if ge .level 0 }}
+                {{ $.Scratch.Set "levelText" "Novice" }}
+              {{ end }}
+
+              {{ if ge .level 55 }}
+                {{ $.Scratch.Set "levelText" "Intermediate" }}
+              {{ end }}
+
+              {{ if ge .level 65 }}
+                {{ $.Scratch.Set "levelText" "Advanced" }}
+              {{ end }}
+
+              {{ if ge .level 75 }}
+                {{ $.Scratch.Set "levelText" "Expert" }}
+              {{ end }}
+
+              {{ if ge .level 100 }}
+                {{ $.Scratch.Set "levelText" "Master" }}
+              {{ end }}
+              <a class="text-left align-middle text-uppercase w-100 mb-1">{{ .name }}</a>
+              <div class="progress rounded-0 mt-1 mb-4  bg-custom-dark">
+                <div class="progress-bar bg-custom-highlight text-custom-light rounded-0 text-center m-1" role="progressbar" style="width: {{ .level }}%" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  {{ end }}
+</div>
