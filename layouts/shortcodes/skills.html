@@ -8,11 +8,15 @@
           <div class="card-body">
             {{ range .category.skills }}
               {{ if ge .level 0 }}
-                {{ $.Scratch.Set "levelText" "Novice" }}
+                {{ $.Scratch.Set "levelText" "Learning" }}
+              {{ end }}
+
+              {{ if ge .level 45 }}
+                {{ $.Scratch.Set "levelText" "Competent" }}
               {{ end }}
 
               {{ if ge .level 55 }}
-                {{ $.Scratch.Set "levelText" "Intermediate" }}
+                {{ $.Scratch.Set "levelText" "Proficient" }}
               {{ end }}
 
               {{ if ge .level 65 }}
@@ -26,7 +30,8 @@
               {{ if ge .level 100 }}
                 {{ $.Scratch.Set "levelText" "Master" }}
               {{ end }}
-              <a class="text-left align-middle text-uppercase w-100 mb-1">{{ .name }}</a>
+              <span class="float-left text-left align-middle text-uppercase mb-1">{{ .name }}</span><span class="float-right text-right align-middle text-uppercase mb-1 text-secondary"><small>{{ $.Scratch.Get "levelText" }}</small></span>
+              <br/>
               <div class="progress rounded-0 mt-1 mb-4  bg-custom-dark">
                 <div class="progress-bar bg-custom-highlight text-custom-light rounded-0 text-center m-1" role="progressbar" style="width: {{ .level }}%" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
