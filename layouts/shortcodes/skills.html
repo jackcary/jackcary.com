@@ -3,37 +3,28 @@
   {{ range .Site.Data.skills }}
     <div class="row mb-4">
       <div class="col-12">
-        <a class="display-4 ml-1">{{ .category.name }}</a>
+        <a class="display-4">{{ .category.name }}</a>
         <div class="card bg-dark w-100 text-left py-2 px-2 mb-5 mt-2">
           <div class="card-body">
             {{ range .category.skills }}
-              {{ if ge .level 0 }}
+              {{ if gt .level 0 }}
                 {{ $.Scratch.Set "levelText" "Learning" }}
               {{ end }}
 
-              {{ if ge .level 45 }}
-                {{ $.Scratch.Set "levelText" "Competent" }}
+              {{ if gt .level 30 }}
+                {{ $.Scratch.Set "levelText" "Intermediate" }}
               {{ end }}
 
-              {{ if ge .level 55 }}
-                {{ $.Scratch.Set "levelText" "Proficient" }}
-              {{ end }}
-
-              {{ if ge .level 65 }}
+              {{ if gt .level 50 }}
                 {{ $.Scratch.Set "levelText" "Advanced" }}
               {{ end }}
 
-              {{ if ge .level 75 }}
+              {{ if gt .level 70 }}
                 {{ $.Scratch.Set "levelText" "Expert" }}
               {{ end }}
-
-              {{ if ge .level 100 }}
-                {{ $.Scratch.Set "levelText" "Master" }}
-              {{ end }}
-              <div class="text-left align-middle text-uppercase">{{ .name }}</div>
-              <div class="text-right align-middle text-uppercase text-secondary small">{{ $.Scratch.Get "levelText" }}</div>
+              <div class="text-left align-middle">{{ .name }}<span class="d-none d-md-inline float-right text-right align-text-bottom text-uppercase text-secondary small">{{ $.Scratch.Get "levelText" }}</span></div>
               <div class="progress rounded-0 mt-0 mb-5 bg-custom-dark">
-                <div class="progress-bar bg-custom-highlight text-custom-light rounded-0 text-center m-1" role="progressbar" style="width: {{ .level }}%" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar bg-custom-highlight text-custom-dark rounded-0 text-center m-1" role="progressbar" style="width: {{ .level }}%" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             {{ end }}
           </div>
