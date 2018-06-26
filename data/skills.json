@@ -1,0 +1,584 @@
+[{
+		"category": {
+			"name": "Languages",
+			"skills": [{
+					"name": "Golang",
+					"level": 90,
+					"URL": ""
+				},
+				{
+					"name": "Javascript",
+					"level": 70,
+					"URL": ""
+				},
+				{
+					"name": "C#",
+					"level": 70,
+					"URL": ""
+				},
+				{
+					"name": "Java",
+					"level": 70,
+					"URL": ""
+				},
+				{
+					"name": "Bash",
+					"level": 70,
+					"URL": ""
+				},
+				{
+					"name": "SQL",
+					"level": 70,
+					"URL": ""
+				},
+				{
+					"name": "Powershell",
+					"level": 50,
+					"URL": ""
+				},
+				{
+					"name": "Python",
+					"level": 50,
+					"URL": ""
+				},
+				{
+					"name": "Ruby",
+					"level": 30,
+					"URL": ""
+				}
+			]
+		}
+	},
+	{
+		"category": {
+			"name": "Operating Systems and Distros",
+			"skills": [{
+					"name": "Linux (CentOS7)",
+					"level": 90,
+					"URL": ""
+				},
+				{
+					"name": "Windows Server",
+					"level": 70,
+					"URL": ""
+				},
+				{
+					"name": "macOS",
+					"level": 50,
+					"URL": ""
+				}
+			]
+		}
+	},
+		{
+			"category": {
+				"name": "Source Code Management and Revision Control Systems",
+				"skills": [{
+						"name": "Git",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "GitHub",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Perforce",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Bitbucket",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Subversion (SVN)",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "ClearCase",
+						"level": 50,
+						"URL": ""
+					},
+					{
+						"name": "Team Foundation",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Databases and Data Stores",
+				"skills": [{
+						"name": "MongoDB",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Apache Solr",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "MySQL",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Microsoft SQL Server",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Elasticsearch",
+						"level": 30,
+						"URL": ""
+					},
+					{
+						"name": "Apache HBase",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Continuous Integration, Deployment, Delivery",
+				"skills": [{
+						"name": "Jenkins",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Octopus Deploy",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Apache Maven",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Virtualization and Containerization",
+				"skills": [{
+						"name": "VMWare",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "VirtualBox",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Docker",
+						"level": 50,
+						"URL": ""
+					},
+					{
+						"name": "Kubernetes",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Cloud Services and Models",
+				"skills": [{
+						"name": "Rackspace Cloud",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Microsoft Azure",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "AWS",
+						"level": 50,
+						"URL": ""
+					},
+					{
+						"name": "Serverless / FaaS",
+						"level": 30,
+						"URL": ""
+					},
+					{
+						"name": "Google Cloud Platform",
+						"level": 30,
+						"URL": ""
+					},
+					{
+						"name": "Heroku",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Software Development Methodologies and Paradigms",
+				"skills": [{
+						"name": "DevOps",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Agile (Scrum)",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Kanban",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "OOP",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "MVP",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "RAD",
+						"level": 70,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Load Balancing",
+				"skills": [{
+						"name": "HAProxy",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Rackspace Load Balancer",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "F5 Load Balancer",
+						"level": 50,
+						"URL": ""
+					},
+					{
+						"name": "Azure Load Balancer",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Web Servers",
+				"skills": [{
+						"name": "Nginx",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Apache Tomcat",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Golang (net/http)",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Node.js",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "IIS",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Jetty",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Configuration Management",
+				"skills": [{
+						"name": "Chef",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Queuing and Message Brokers",
+				"skills": [{
+						"name": "RabbitMQ",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "ActiveMQ",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Caching",
+				"skills": [{
+						"name": "Memcached",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Proactive Monitoring",
+				"skills": [{
+						"name": "Nagios",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Monit",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "LogicMonitor",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Markup Languages and Data Serialization Formats",
+				"skills": [{
+					"name": "JSON",
+					"level": 90,
+					"URL": ""
+				  },
+				  {
+						"name": "Markdown",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "HTML",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "TOML",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "XML",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "YAML",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Templating",
+				"skills": [{
+						"name": "Golang Templates",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Azure Templates",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Heat Templates",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Content Management Systems",
+				"skills": [{
+						"name": "Weebly",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Wordpress",
+						"level": 70,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Online Payment Integration",
+				"skills": [{
+						"name": "Stripe",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Paypal",
+						"level": 70,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Front-end Frameworks and Toolkits",
+				"skills": [{
+						"name": "Bootstrap 4",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Font Awesome 5",
+						"level": 70,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Static Website Generation",
+				"skills": [{
+						"name": "Hugo",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Jekyll",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Static Website Publishing and Hosting",
+				"skills": [{
+						"name": "Netlify",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "GitHub Pages",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Bitbucket.io",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Surge.sh",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "GitLab Pages",
+						"level": 30,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Project and Task Management Tools",
+				"skills": [{
+						"name": "Trello",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Jira",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "GitHub Projects",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
+				"name": "Caffeinated Beverage Consumption",
+				"skills": [{
+						"name": "Kona Coffee",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Matcha (Green Tea)",
+						"level": 90,
+						"URL": ""
+					},
+					{
+						"name": "Yerba Mate",
+						"level": 90,
+						"URL": ""
+					}
+				]
+			}
+		}
+]
