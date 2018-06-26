@@ -341,6 +341,27 @@
 		},
 		{
 			"category": {
+				"name": "Advertising and Analytics",
+				"skills": [{
+						"name": "Facebook Ads Manager",
+						"level": 70,
+						"URL": ""
+					},
+					{
+						"name": "Google Analytics",
+						"level": 50,
+						"URL": ""
+					},
+					{
+						"name": "Google AdWords",
+						"level": 50,
+						"URL": ""
+					}
+				]
+			}
+		},
+		{
+			"category": {
 				"name": "Queuing and Message Brokers",
 				"skills": [{
 						"name": "RabbitMQ",
