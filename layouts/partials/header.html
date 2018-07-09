@@ -1,15 +1,15 @@
-<nav class="navbar navbar-expand-md">
-  <a class="navbar-brand text-uppercase align-middle" href="/"><img src="/img/jack-cary-logo-sm.png" width="32" height="32" class="d-inline-block align-middle mr-3" alt="">{{ .Site.Title }}</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <i class="navbar-toggler-icon fas fa-bars"></i>
+<nav class="navbar navbar-expand-md align-middle bg-darker">
+  <a class="navbar-brand font-weight-bold text-light align-middle text-uppercase" href="/"><img src="/img/jack-cary-logo-sm.png" width="30" height="30" class="d-inline-block align-top mr-3" alt="Logo">{{ .Site.Title }}</a>
+  <button class="navbar-toggler text-light align-middle" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="navbar-toggler-icon fas fa-bars"></i>
   </button>
   <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
     <div class="navbar-nav align-items-center">
       {{ range .Site.Menus.main }}
         {{ if eq .Name "Contact" }}
-          <a class="btn text-uppercase btn-custom-dark align-middle rounded-0 ml-2" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="btn  btn-outline-light align-middle  ml-2" href="{{ .URL }}">{{ .Name }}</a>
         {{else}}
-          <a class="nav-item nav-link text-uppercase align-middle" href="{{ .URL }}">{{ .Name }}</a>
+          <a class="nav-item nav-link  align-middle text-light" href="{{ .URL }}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
     </div>
