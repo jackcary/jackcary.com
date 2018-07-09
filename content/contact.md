@@ -6,10 +6,8 @@ subtitle = "Jack Cary"
 
 +++
 
-# I'm always interested in new and exciting projects.
-<p class="mb-5"></p>
+## Ready to discuss the needs of your project?
 
-# Let's get started!
-<p class="mt-5"></p>
+<p class="mt-3 mb-5">Send me an email to get started!</p>
 
 {{< social >}}
