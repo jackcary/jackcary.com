@@ -20,16 +20,18 @@ With over 20 years of real-world <a href="/experience/" >experience</a> designin
 
 I have successfully implemented automation solutions across a wide range of industries, including healthcare, transportation, hospitality, event management, and digital marketing. I am eager to apply my knowledge to your business and enable you to focus on what's really important: providing high-quality products and services to your customers.
 
-When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking in Vermont, enjoying travel abroad, running long distances with my wife Chelsea, and playing the ancient strategy game of <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
+When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking in the <a href="https://en.wikipedia.org/wiki/Green_Mountains">Green Mountains</a>, enjoying travel abroad, running long distances with my wife Chelsea, and playing the ancient strategy game of <a href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
 
-## About this Website
+## Tech Stack for this Website
 
-This website is using the open-source static site generator <a href="https://gohugo.io/">Hugo</a>.
+This website was developed with the open-source static site generator <a href="https://gohugo.io/">Hugo</a>.
 
 It's continuously built, deployed, and hosted via <a href="https://www.netlify.com/">Netlify</a>.
 
-Responsive layout and components are brought to you by <a href="https://www.getbootstrap.com/">Bootstrap</a>.
+Responsive layout and front-end components are brought to you by <a href="https://www.getbootstrap.com/">Bootstrap</a>.
 
 Icons are provided by <a href="https://www.fontawesome.com/">Font Awesome</a>.
+
+Hacked together on a MacBook Pro using <a href="https://atom.io">Atom</a>.
 
 Source code for the project can be found on <a href="https://github.com/jackcary/jackcary.com/">GitHub</a>.
