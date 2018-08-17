@@ -4,53 +4,83 @@ date = "2018-04-30T21:09:37-10:00"
 draft = false
 +++
 
+### Summary of Qualifications
 
-## Summary of Qualifications
-<p class="mb-5"></p>
+* **20+ years of real-world experience developing business software solutions**
+* Dedicated to creating elegant, resilient, fully-automated, and high-availability systems
+* Autodidact, self-motivated, creative problem-solver, quick to learn new skills/technologies
+* Experienced small business owner, adept at finding innovative budget-minded solutions
+* Technical leader with ability to fulfill project requirements on time and drive team success
 
-<ul class="fa-ul">
-  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>20+ years real-world experience developing business software solutions</li>
+### Professional Experience
 
-  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Autodidact, self-motivated, quick to learn new skills and technologies</li>
+#### Independent Software Consultant / Owner
+Jack Cary Software Consultant LLC  
+2018-Present
 
-  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Expert knowledge of software development life cycle and various methodologies</li>
+* **Proven DevOps expert offering cost-effective solutions to organizations of all sizes.**
+* Services include business process automation, cloud migration, infrastructure as code, continuous delivery, real-time event processing, and custom web service development.
 
-  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Experienced small business owner, adept at finding innovative budget-minded solutions</li>
+#### Senior Software Engineer
+MyWebGrocer, Inc.  
+2011-2016 (5 years)
 
-  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Technical lead with ability to fulfill project requirements on time and drive team success</li>
+* **Accelerated core product installation process from 6 weeks to < 48 hours by leveraging automation and continuous delivery technologies.**
+* Orchestrated cloud infrastructure for hundreds of production VMs, designed and developed continuous delivery pipelines, wrote web services, solved real-time event processing challenges, created data access layers, managed proactive monitoring, configured cloud load balancers, administered and scaled NoSQL data stores, leveraged queueing and caching technologies, scripted installs, and optimized entire release management process.
+* Created and implemented event processing solution for 1000+ ad events per second, per node, using < 100 lines of code, costing < $1 per day in cloud services.
+* Reduced 1,000,000+ product data query times to < 100ms by leveraging NoSQL FOSS.
+* Expedited DEV and QA environment stand ups from 1 week to < 30 minutes via automation.
+* Recognized and awarded at R&D all-hands for emergency overnight replacement of malfunctioning production API Gateway using < 200 lines of HAProxy configuration.
+* Spearheaded development and cross-team adoption of RESTful web service standards.
+* _Tech stack: Linux, Rackspace, Azure, HAProxy, Golang, Bash, Node.js, Java, C#, MongoDB, Solr, SQL, Jenkins, Octopus, Docker, RabbitMQ, Nagios, Git, SVN, Tomcat, Nginx, IIS._
 
-  <li class="pb-5"><i class="fa-li fas fa-check text-custom-highlight"></i>Focused on implementing elegant, resilient, fully-automated, and high-availability systems</li>
-</ul>
+#### Lead Software Engineer / Systems Engineer
+GE Healthcare, Inc.  
+2004-2011 (7 years)
 
-<p class="mb-5"></p>
+* **Saved 100+ engineering man-hours per month, and improved product quality, by automating manual processes for builds and deployments.**
+* Designed and developed automated testing and static code analysis solution which resulted in 0 defects found upon release of core radiology worklist component.
+* Drove innovation as a representative of the Burlington Intellectual Property team, resulting in multiple disclosures submitted to the patent evaluation board.
+* Key member of winning team for “Hack Week” coding competition. 1st place 2011 and 2009.
+* Developed clinical information management modules for allergies and medications, cryptography web services, and ports of legacy database and installer scripts.
+* Performed code reviews, gathered requirements, evaluated and recommended new software, researched and shared best practices, and wrote technical design documentation.
+* _Tech stack: VMWare, Perforce, Linux, Windows Server, IIS, CC.NET, C#, Bash, Batch commands, PowerShell, MSSQL, JavaScript, HTML, CSS, ASP.NET, NUnit, NCover, FxCop._
 
-## Professional Experience
-<p class="mb-5"></p>
+#### Software Consultant / Contractor
+RCG Global Services, Inc.  
+2000-2003 (3 years)
 
-### Software Consultant / Business Owner
-#### Independent Contractor 2017-Present
-<p class="mb-5"></p>
+* **Reduced speeding-related incidents for 250,000+ electronic toll customers by automating warning letter generation and transponder deactivation from toll lane data.**
+* Spearheaded a browser-based license plate image enhancement solution for the Orlando-Orange County Expressway Authority, optimizing enforcement of toll violations.
+* Eliminated support costs and saved 100+ man-hours per month by developing a web-based common login system for e-pass support centers, mitigating client machine setup issues, version conflicts, and user lockouts, while streamlining workflows and enhancing overall UX.
+* Wrote coding standards and technical documentation for OOCEA dev teams.
+* Developed in-house database reporting functionality for Finfrock Industries, a leading architectural concrete manufacturer, by leveraging BI and report generation tools.
+* Enhanced an object-oriented labor forecasting application for Walt Disney World Co., replacing multiple local data stores with a shared server-side relational DB.
+* Created ad-hoc reports for Walt Disney World Co. to confirm federal labor law compliance.
+* _Tech stack: Windows, SQL, Oracle, Informix, C#, ASP.NET, VB, ADO, COM DLLs, HTML._
 
-## Senior Software Engineer
-#### MyWebGrocer, Inc. 2011-2016
-<p class="mb-5"></p>
+#### Software Engineer
+Coleman Technologies, Inc.  
+1999-2000 (1 year)
 
-## Lead Software Engineer
-#### GE Healthcare, Inc. (formerly IDX) 2004-2011
-<p class="mb-5"></p>
+* **Wrote resource scheduling system enhancements, including a custom financial calculation module, for the San Diego Convention and Visitors Bureau.**
+* Developed document-imaging solutions using third-party scanning and viewing libraries.
+* Provided on-site product training and detailed technical documentation for clients.
+* _Tech stack: Windows, SQL, VB._
 
-## Software Consultant
-#### RCG Information Technology, Inc. 2000-2003
-<p class="mb-5"></p>
+#### Technical Analyst
+SunGard Healthcare, Intelus Division  
+1998-1999 (1 year)
 
-### Software Engineer
-#### Coleman Technologies, LLC. 1999-2000
-<p class="mb-5"></p>
+* **Developed shell scripts to interface with third-party medical software.**
+* Automated generation of complex hospital database reports.
+* _Tech stack: HP UNIX, Windows, Awk, Sed, SQL, and on-site HW config and installs._
 
-### Technical Analyst
-#### SunGard Healthcare, Inc. (Intelus Division) 1998-1999
-<p class="mb-5"></p>
+#### GUI Developer / Software Specialist
+Cirrus Technology, Inc.  
+1995-1998 (3 years)
 
-### GUI Developer / Software Specialist
-#### Cirrus Technology, Inc. 1995-1998
-<p class="mb-5"></p>
+* **Automated application installations, leveraging various scripting tools.**
+* Developed GUI front-end applications to operate scanners and CD-recordable jukeboxes.
+* Performed QA testing of software packages, wrote and executed test plans and matrices.
+* _Tech stack: OS/2 Warp, Windows, Java, SQL, InstallShield, and physical server assembly._
