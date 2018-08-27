@@ -1,43 +1,49 @@
 [{
 		"name": "Business Process Automation",
-		"description": "",
+		"description": "Streamline and accelerate your workflows.",
     "URL": "/contact/",
-		"faClass": "fas fa-cogs fa-5x fa-fw"
+		"faClass": "fas fa-cogs"
 	},
 	{
 		"name": "Continuous Delivery",
-		"description": "",
+		"description": "Faster, more frequent, production releases.",
     "URL": "/contact/",
-		"faClass": "fas fa-sync fa-5x fa-fw"
+		"faClass": "fas fa-sync"
 	},
 	{
 		"name": "Cloud Orchestration",
-		"description": "",
+		"description": "Infrastructure as Code.",
     "URL": "/contact/",
-		"faClass": "fas fa-cloud fa-5x fa-fw"
+		"faClass": "fas fa-cloud"
 	},
 	{
 		"name": "RESTful Web Services",
 		"description": "",
     "URL": "/contact/",
-		"faClass": "fas fa-code fa-5x fa-fw"
+		"faClass": "fas fa-globe"
 	},
 	{
 		"name": "Technology Evaluation",
-		"description": "",
+		"description": "Choose the best tool for the job.",
     "URL": "/contact/",
-		"faClass": "fas fa-balance-scale fa-5x fa-fw"
+		"faClass": "fas fa-balance-scale"
 	},
 	{
 		"name": "ETL and Data Migration",
 		"description": "",
     "URL": "/contact/",
-		"faClass": "fas fa-database fa-5x fa-fw"
+		"faClass": "fas fa-database"
+	},
+  {
+		"name": "Static Site Generation",
+		"description": "",
+    "URL": "/contact/",
+		"faClass": "fas fa-code"
 	},
 	{
 		"name": "Custom Software Development",
-		"description": "",
+		"description": "Need something else? Let's talk.",
     "URL": "/contact/",
-		"faClass": "fas fa-code-branch fa-5x fa-fw"
+		"faClass": "fas fa-code-branch"
 	}
 ]
