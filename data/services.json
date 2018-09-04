@@ -1,49 +1,58 @@
 [{
+    "id" : "business-process-automation",
 		"name": "Business Process Automation",
 		"description": "Streamline and accelerate your workflows.",
-    "URL": "/contact/",
+    "URL": "/services/#business-process-automation",
 		"faClass": "fas fa-cogs"
 	},
 	{
+		"id" : "continuous-delivery",
 		"name": "Continuous Delivery",
 		"description": "Faster, better, software releases.",
-    "URL": "/contact/",
+    "URL": "/services/#continuous-delivery",
 		"faClass": "fas fa-sync"
 	},
 	{
+
+		"id" : "cloud-migration-and-orchestration",
 		"name": "Cloud Migration and Orchestration",
 		"description": "Leverage the power and flexibility of the cloud.",
-    "URL": "/contact/",
+    "URL": "/services/#cloud-migration-and-orchestration",
 		"faClass": "fas fa-cloud"
 	},
 	{
+		"id": "restful-web-services",
 		"name": "RESTful Web Services",
 		"description": "Open up your data with secure and scalable APIs.",
-    "URL": "/contact/",
+    "URL": "/services/#restful-web-services",
 		"faClass": "fas fa-globe"
 	},
 	{
+		"id": "technology-selection",
 		"name": "Technology Selection",
 		"description": "Choose the best tool for the job, every time.",
-    "URL": "/contact/",
+    "URL": "/services/#technology-selection",
 		"faClass": "fas fa-balance-scale"
 	},
 	{
+		"id": "etl-and-data-migration",
 		"name": "ETL and Data Migration",
 		"description": "Move, transform, and repurpose your data.",
-    "URL": "/contact/",
+    "URL": "/services/#etl-and-data-migration",
 		"faClass": "fas fa-database"
 	},
   {
+		"id": "static-site-generation",
 		"name": "Static Site Generation",
 		"description": "Secure, high-performance, static websites.",
-    "URL": "/contact/",
+    "URL": "/services/#static-site-generation",
 		"faClass": "fas fa-code"
 	},
 	{
+		"id": "custom-software-development",
 		"name": "Custom Software Development",
 		"description": "Need something else?",
-    "URL": "/contact/",
+    "URL": "/services/#custom-software-development",
 		"faClass": "fas fa-code-branch"
 	}
 ]
