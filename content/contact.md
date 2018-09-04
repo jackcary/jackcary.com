@@ -10,4 +10,4 @@ subtitle = "Jack Cary"
 
 Send me an email to get started today.
 
-<a class="text-red"href="mailto:jack@jackcary.com"><i class="fa fa-envelope mr-2"></i>jack@jackcary.com</a>
+<a class="text-red mb-5"href="mailto:jack@jackcary.com"><i class="fa fa-envelope mr-2"></i>jack@jackcary.com</a>
