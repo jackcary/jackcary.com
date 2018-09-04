@@ -10,7 +10,7 @@ draft = false
 * **Proven DevOps expert offering cost-effective solutions to organizations of all sizes.**
 * Services include business process automation, cloud migration, infrastructure as code, continuous delivery, real-time event processing, and custom web service development.
 
-<hr class="m-5"></hr>
+<p class="m-5"></p>
 
 ### Senior Software Engineer
 ##### <a href="https://mywebgrocer.com" class="text-red">MyWebGrocer, Inc.</a>  
@@ -25,7 +25,7 @@ draft = false
 * Spearheaded development and cross-team adoption of RESTful web service standards.
 * _Tech stack: Linux, Rackspace, Azure, HAProxy, Golang, Bash, Node.js, Java, C#, MongoDB, Solr, SQL, Jenkins, Octopus, Docker, RabbitMQ, Nagios, Git, SVN, Tomcat, Nginx, IIS._
 
-<hr class="m-5"></hr>
+<p class="m-5"></p>
 
 ### Lead Software Engineer / Systems Engineer
 ##### <a href="http://gehealthcare.com/" class="text-red">GE Healthcare, Inc.</a>  
@@ -39,7 +39,7 @@ draft = false
 * Performed code reviews, gathered requirements, evaluated and recommended new software, researched and shared best practices, and wrote technical design documentation.
 * _Tech stack: VMWare, Perforce, Linux, Windows Server, IIS, CC.NET, C#, Bash, Batch commands, PowerShell, MSSQL, JavaScript, HTML, CSS, ASP.NET, NUnit, NCover, FxCop._
 
-<hr class="m-5"></hr>
+<p class="m-5"></p>
 
 ### Software Consultant / Contractor
 ##### <a href="https://rcgglobalservices.com" class="text-red">RCG Global Services, Inc.</a>  
@@ -54,7 +54,7 @@ draft = false
 * Created ad-hoc reports for Walt Disney World Co. to confirm federal labor law compliance.
 * _Tech stack: Windows, SQL, Oracle, Informix, C#, ASP.NET, VB, ADO, COM DLLs, HTML._
 
-<hr class="m-5"></hr>
+<p class="m-5"></p>
 
 ### Software Engineer
 ##### Coleman Technologies, Inc.  
@@ -65,7 +65,7 @@ draft = false
 * Provided on-site product training and detailed technical documentation for clients.
 * _Tech stack: Windows, SQL, VB._
 
-<hr class="m-5"></hr>
+<p class="m-5"></p>
 
 ### Technical Analyst
 ##### SunGard Healthcare, Intelus Division  
@@ -75,7 +75,7 @@ draft = false
 * Automated generation of complex hospital database reports.
 * _Tech stack: HP UNIX, Windows, Awk, Sed, SQL, and on-site HW config and installs._
 
-<hr class="m-5"></hr>
+<p class="m-5"></p>
 
 ### GUI Developer / Software Specialist
 ##### Cirrus Technology, Inc.  
@@ -85,3 +85,5 @@ draft = false
 * Developed GUI front-end applications to operate scanners and CD-recordable jukeboxes.
 * Performed QA testing of software packages, wrote and executed test plans and matrices.
 * _Tech stack: OS/2 Warp, Windows, Java, SQL, InstallShield, and physical server assembly._
+
+<p class="m-5"></p>
