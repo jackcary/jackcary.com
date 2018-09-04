@@ -6,3 +6,4 @@ subtitle = "Software Consultant"
 location = "Burlington, Vermont"
 
 +++
+{{< services >}}
