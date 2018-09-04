@@ -13,13 +13,9 @@
         {{ end }}
       {{ end }}
 
-      {{ range .Site.Data.social }}
-            <a class="nav-link align-middle" href="{{ .URL }}"><i class="text-red {{ .faClass }}"></i></a>
-      {{ end }}
-
       {{ range .Site.Menus.main }}
         {{ if eq .Name "Contact" }}
-          <a class="btn btn-sm btn-outline-red align-middle mx-2" href="/contact/">Contact</a>
+          <a class="btn btn-outline-red border-2 align-middle mx-2 font-weight-bold rounded-0" href="/contact/">Contact</a>
         {{ end }}
       {{ end }}
   </div>
