@@ -6,8 +6,8 @@ subtitle = "Jack Cary"
 
 +++
 
-## Ready to discuss the needs of your project?
+## Let's discuss the needs of your project.
 
-<p class="mt-3 mb-5">Send me an email to get started!</p>
+Send me an email to get started today.
 
-{{< social >}}
+<a class="text-red"href="mailto:jack@jackcary.com"><i class="fa fa-envelope mr-2"></i>jack@jackcary.com</a>
