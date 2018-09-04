@@ -6,43 +6,43 @@
 	},
 	{
 		"name": "Continuous Delivery",
-		"description": "Faster, more frequent, production releases.",
+		"description": "Faster, better, software releases.",
     "URL": "/contact/",
 		"faClass": "fas fa-sync"
 	},
 	{
-		"name": "Cloud Orchestration",
-		"description": "Infrastructure as Code.",
+		"name": "Cloud Migration and Orchestration",
+		"description": "Leverage the power and flexibility of the cloud.",
     "URL": "/contact/",
 		"faClass": "fas fa-cloud"
 	},
 	{
 		"name": "RESTful Web Services",
-		"description": "",
+		"description": "Open up your data with secure and scalable APIs.",
     "URL": "/contact/",
 		"faClass": "fas fa-globe"
 	},
 	{
-		"name": "Technology Evaluation",
-		"description": "Choose the best tool for the job.",
+		"name": "Technology Selection",
+		"description": "Choose the best tool for the job, every time.",
     "URL": "/contact/",
 		"faClass": "fas fa-balance-scale"
 	},
 	{
 		"name": "ETL and Data Migration",
-		"description": "",
+		"description": "Move, transform, and repurpose your data.",
     "URL": "/contact/",
 		"faClass": "fas fa-database"
 	},
   {
 		"name": "Static Site Generation",
-		"description": "",
+		"description": "Secure, high-performance, static websites.",
     "URL": "/contact/",
 		"faClass": "fas fa-code"
 	},
 	{
 		"name": "Custom Software Development",
-		"description": "Need something else? Let's talk.",
+		"description": "Need something else?",
     "URL": "/contact/",
 		"faClass": "fas fa-code-branch"
 	}
