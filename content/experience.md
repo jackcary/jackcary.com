@@ -3,26 +3,17 @@ title = "Experience"
 date = "2018-04-30T21:09:37-10:00"
 draft = false
 +++
-
-### Summary of Qualifications
-
-* **20+ years of real-world experience developing business software solutions**
-* Dedicated to creating elegant, resilient, fully-automated, and high-availability systems
-* Autodidact, self-motivated, creative problem-solver, quick to learn new skills/technologies
-* Experienced small business owner, adept at finding innovative budget-minded solutions
-* Technical leader with ability to fulfill project requirements on time and drive team success
-
-### Professional Experience
-
-#### Independent Software Consultant / Owner
-Jack Cary Software Consultant LLC  
+### Independent Software Consultant / Owner
+##### <a href="/" class="text-red">Jack Cary Software Consultant LLC</a>  
 2018-Present
 
 * **Proven DevOps expert offering cost-effective solutions to organizations of all sizes.**
 * Services include business process automation, cloud migration, infrastructure as code, continuous delivery, real-time event processing, and custom web service development.
 
-#### Senior Software Engineer
-MyWebGrocer, Inc.  
+<hr class="m-5"></hr>
+
+### Senior Software Engineer
+##### <a href="https://mywebgrocer.com" class="text-red">MyWebGrocer, Inc.</a>  
 2011-2016 (5 years)
 
 * **Accelerated core product installation process from 6 weeks to < 48 hours by leveraging automation and continuous delivery technologies.**
@@ -34,8 +25,10 @@ MyWebGrocer, Inc.
 * Spearheaded development and cross-team adoption of RESTful web service standards.
 * _Tech stack: Linux, Rackspace, Azure, HAProxy, Golang, Bash, Node.js, Java, C#, MongoDB, Solr, SQL, Jenkins, Octopus, Docker, RabbitMQ, Nagios, Git, SVN, Tomcat, Nginx, IIS._
 
-#### Lead Software Engineer / Systems Engineer
-GE Healthcare, Inc.  
+<hr class="m-5"></hr>
+
+### Lead Software Engineer / Systems Engineer
+##### <a href="http://gehealthcare.com/" class="text-red">GE Healthcare, Inc.</a>  
 2004-2011 (7 years)
 
 * **Saved 100+ engineering man-hours per month, and improved product quality, by automating manual processes for builds and deployments.**
@@ -46,8 +39,10 @@ GE Healthcare, Inc.
 * Performed code reviews, gathered requirements, evaluated and recommended new software, researched and shared best practices, and wrote technical design documentation.
 * _Tech stack: VMWare, Perforce, Linux, Windows Server, IIS, CC.NET, C#, Bash, Batch commands, PowerShell, MSSQL, JavaScript, HTML, CSS, ASP.NET, NUnit, NCover, FxCop._
 
-#### Software Consultant / Contractor
-RCG Global Services, Inc.  
+<hr class="m-5"></hr>
+
+### Software Consultant / Contractor
+##### <a href="https://rcgglobalservices.com" class="text-red">RCG Global Services, Inc.</a>  
 2000-2003 (3 years)
 
 * **Reduced speeding-related incidents for 250,000+ electronic toll customers by automating warning letter generation and transponder deactivation from toll lane data.**
@@ -59,25 +54,31 @@ RCG Global Services, Inc.
 * Created ad-hoc reports for Walt Disney World Co. to confirm federal labor law compliance.
 * _Tech stack: Windows, SQL, Oracle, Informix, C#, ASP.NET, VB, ADO, COM DLLs, HTML._
 
-#### Software Engineer
-Coleman Technologies, Inc.  
+<hr class="m-5"></hr>
+
+### Software Engineer
+##### Coleman Technologies, Inc.  
 1999-2000 (1 year)
 
-* **Wrote resource scheduling system enhancements, including a custom financial calculation module, for the San Diego Convention and Visitors Bureau.**
+* <p class="lead">Wrote resource scheduling system enhancements, including a custom financial calculation module, for the San Diego Convention and Visitors Bureau.</p>
 * Developed document-imaging solutions using third-party scanning and viewing libraries.
 * Provided on-site product training and detailed technical documentation for clients.
 * _Tech stack: Windows, SQL, VB._
 
-#### Technical Analyst
-SunGard Healthcare, Intelus Division  
+<hr class="m-5"></hr>
+
+### Technical Analyst
+##### SunGard Healthcare, Intelus Division  
 1998-1999 (1 year)
 
 * **Developed shell scripts to interface with third-party medical software.**
 * Automated generation of complex hospital database reports.
 * _Tech stack: HP UNIX, Windows, Awk, Sed, SQL, and on-site HW config and installs._
 
-#### GUI Developer / Software Specialist
-Cirrus Technology, Inc.  
+<hr class="m-5"></hr>
+
+### GUI Developer / Software Specialist
+##### Cirrus Technology, Inc.  
 1995-1998 (3 years)
 
 * **Automated application installations, leveraging various scripting tools.**
