@@ -1,8 +1,10 @@
 +++
-title = "Discounts"
 date = "2018-05-18T16:23:07-04:00"
 draft = false
+title = "Discounts"
+subtitle = "Jack Cary"
 +++
+
 ## 10% Nonprofit discount
 For Vermont-based Nonprofit Corporations 501c(3)
 
