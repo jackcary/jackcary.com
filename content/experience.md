@@ -60,7 +60,7 @@ draft = false
 ##### Coleman Technologies, Inc.  
 1999-2000 (1 year)
 
-* <p class="lead">Wrote resource scheduling system enhancements, including a custom financial calculation module, for the San Diego Convention and Visitors Bureau.</p>
+* **Wrote resource scheduling system enhancements, including a custom financial calculation module, for the San Diego Convention and Visitors Bureau.**
 * Developed document-imaging solutions using third-party scanning and viewing libraries.
 * Provided on-site product training and detailed technical documentation for clients.
 * _Tech stack: Windows, SQL, VB._
