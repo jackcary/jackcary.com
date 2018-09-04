@@ -5,9 +5,10 @@ title = "About"
 subtitle = "Jack Cary"
 
 +++
-<img class="img-fluid border border-2 float-sm-none float-md-right float-lg-right float-xl-right ml-sm-0 ml-md-3 mb-3" src="/img/jack-cary.jpg" alt="Jack Cary" width="300px">
 
 ## Hello, World!
+
+<img class="img-fluid border border-2 float-sm-none float-md-right float-lg-right float-xl-right ml-sm-0 ml-md-3 mb-3" src="/img/jack-cary.jpg" alt="Jack Cary" width="300px">
 
 I'm Jack Cary, a Software Consultant and DevOps expert in Burlington, Vermont.
 
