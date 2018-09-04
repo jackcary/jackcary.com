@@ -3,10 +3,12 @@
   {{ range .Site.Data.skills }}
     <div class="row mb-4">
       <div class="col-12">
-        <a class="display-4">{{ .category.name }}</a>
-        <div class="card bg-dark w-100 text-left py-2 px-2 mb-5 mt-2">
-          <div class="card-body">
+        <a class="h1">{{ .category.name }}</a>
+
             {{ range .category.skills }}
+            <div class="card bg-white shadow w-100 text-left py-2 px-2 mb-5 mt-2">
+              <div class="card-body">
+
               {{ if gt .level 0 }}
                 {{ $.Scratch.Set "levelText" "Learning" }}
               {{ end }}
@@ -22,13 +24,14 @@
               {{ if gt .level 70 }}
                 {{ $.Scratch.Set "levelText" "Expert" }}
               {{ end }}
-              <div class="text-left align-middle">{{ .name }}<span class="d-none d-md-inline float-right text-right align-text-bottom text-uppercase text-secondary small">{{ $.Scratch.Get "levelText" }}</span></div>
-              <div class="progress rounded-0 mt-0 mb-5 bg-custom-dark">
-                <div class="progress-bar bg-custom-highlight text-custom-dark rounded-0 text-center m-1" role="progressbar" style="width: {{ .level }}%" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100"></div>
+              <div class="h4 text-left align-middle">{{ .name }}<span class="d-none d-md-inline float-right text-right align-text-bottom  text-secondary small">{{ $.Scratch.Get "levelText" }}</span></div>
+              <div class="progress  mt-0 mb-5">
+                <div class="progress-bar text-center" role="progressbar" style="width: {{ .level }}%" aria-valuenow="{{ .level }}" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
-            {{ end }}
+            </div>
           </div>
-        </div>
+            {{ end }}
+
       </div>
     </div>
   {{ end }}
