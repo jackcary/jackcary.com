@@ -6,7 +6,7 @@ subtitle = "Jack Cary"
 
 +++
 
-## Let's discuss the needs of your project.
+## Ready to discuss the needs of your project?
 
 Send me an email to get started today.
 
