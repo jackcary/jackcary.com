@@ -7,7 +7,7 @@ draft = false
 ##### <a href="/" class="text-red">Jack Cary Software Consultant LLC</a>  
 2018-Present
 
-* **Proven DevOps expert offering cost-effective solutions to organizations of all sizes.**
+* **Proven DevOps expert offering cost-effective software solutions to organizations of all sizes.**
 * Services include business process automation, cloud migration, infrastructure as code, continuous delivery, real-time event processing, and custom web service development.
 
 <p class="m-5"></p>
