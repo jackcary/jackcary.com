@@ -17,4 +17,4 @@ For clients within 20-minute walking distance of downtown Burlington, Vermont
 ## Additional discounts
 You may qualify for additional discounts based on duration of contract (i.e. weekly, monthly)
 
-<a href="/contact/" class="text-red">Contact<a> me for details.
+<a href="/contact/" class="text-red">Contact</a> me for details.
