@@ -6,6 +6,3 @@ subtitle = "For your business"
 +++
 {{< services >}}
 
-<section id="custom-software-development">
-<h2>Custom Software Development</h2>
-</section>
