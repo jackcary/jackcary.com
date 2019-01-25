@@ -9,6 +9,7 @@ draft = false
 
 * **Proven DevOps expert offering cost-effective software solutions to organizations of all sizes.**
 * Services include business process automation, cloud migration, infrastructure as code, continuous delivery, real-time event processing, and custom web service development.
+* _Most recent technologies used: Golang, ElasticSearch, SQLite, SQL Server, GCP/AWS, Git, GitHub/GitLab, PHP, Wordpress Templates, LAMP/MAMP, Bootstrap, DataTables, chart.js, amCharts, Linux/macOS/Windows ...   
 
 <p class="m-5"></p>
 
