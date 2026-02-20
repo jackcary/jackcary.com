@@ -23,6 +23,7 @@ I have successfully implemented automation solutions across a wide range of indu
 When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me enjoying time with my family, traveling, and playing the ancient strategy game of <a class="text-red" href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
 
 <p class="my-5"></p>
+
 ## Website
 
 This website was developed with the open-source static site generator <a class="text-red" href="https://gohugo.io/">Hugo</a>. It's continuously built, deployed, and hosted via <a class="text-red" href="https://www.cloudflare.com/">Cloudflare</a>. Responsive layout and front-end components are brought to you by <a class="text-red" href="https://www.getbootstrap.com/">Bootstrap</a>. Icons are provided by <a class="text-red" href="https://www.fontawesome.com/">Font Awesome</a>. It was hacked together on a MacBook Pro originally using the <a class="text-red" href="https://atom.io">Atom</a> text editor but is now with <a class="text-red" href="https://code.visualstudio.com/">Visual Studio Code</a>.
