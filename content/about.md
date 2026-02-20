@@ -20,15 +20,15 @@ With over 20 years of real-world <a class="text-red" href="/experience/" >experi
 
 I have successfully implemented automation solutions across a wide range of industries, including healthcare, transportation, hospitality, event management, and digital marketing. I am eager to apply my knowledge to your business and enable you to focus on what's important: providing high-quality products and services to your customers.
 
-When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me hiking in the <a class="text-red" href="https://en.wikipedia.org/wiki/Green_Mountains">Green Mountains</a>, enjoying international travel, running long distances with my wife Chelsea, and playing the ancient strategy game of <a class="text-red" href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
+When I'm not busy freeing fellow humans from their manual, repetitive, and error-prone workflows, you can find me enjoying time with my family, traveling, and playing the ancient strategy game of <a class="text-red" href="https://en.wikipedia.org/wiki/Go_(game)">Go</a>.
 
 <p class="my-5"></p>
 ## Website
 
-This website was developed with the open-source static site generator <a class="text-red" href="https://gohugo.io/">Hugo</a>. It's continuously built, deployed, and hosted via <a class="text-red" href="https://www.netlify.com/">Netlify</a>. Responsive layout and front-end components are brought to you by <a class="text-red" href="https://www.getbootstrap.com/">Bootstrap</a>. Icons are provided by <a class="text-red" href="https://www.fontawesome.com/">Font Awesome</a>. It was hacked together on a MacBook Pro using the <a class="text-red" href="https://atom.io">Atom</a> text editor.
+This website was developed with the open-source static site generator <a class="text-red" href="https://gohugo.io/">Hugo</a>. It's continuously built, deployed, and hosted via <a class="text-red" href="https://www.cloudflare.com/">Cloudflare</a>. Responsive layout and front-end components are brought to you by <a class="text-red" href="https://www.getbootstrap.com/">Bootstrap</a>. Icons are provided by <a class="text-red" href="https://www.fontawesome.com/">Font Awesome</a>. It was hacked together on a MacBook Pro originally using the <a class="text-red" href="https://atom.io">Atom</a> text editor but is now with <a class="text-red" href="https://code.visualstudio.com/">Visual Studio Code</a>.
 
 Source code for this website can be found on <a class="text-red" href="https://github.com/jackcary/jackcary.com/">GitHub</a>.
 
 <p class="my-5"></p>
-**Jack Cary Software Consultant LLC** is a registered and insured Vermont Domestic Limited Liability Company.
+<strong>Jack Cary Software Consultant LLC</strong> is a registered and insured Vermont Domestic Limited Liability Company.
 NAICS sector: 54-Professional, Scientific, and Technical Services. NAICS code: 541512-Computer Systems Design Services.
