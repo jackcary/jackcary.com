@@ -26,7 +26,7 @@ When I'm not busy freeing fellow humans from their manual, repetitive, and error
 
 ## Website
 
-This website was developed with the open-source static site generator <a class="text-red" href="https://gohugo.io/">Hugo</a>. It's continuously built, deployed, and hosted via <a class="text-red" href="https://www.cloudflare.com/">Cloudflare</a>. Responsive layout and front-end components are brought to you by <a class="text-red" href="https://www.getbootstrap.com/">Bootstrap</a>. Icons are provided by <a class="text-red" href="https://www.fontawesome.com/">Font Awesome</a>. It was hacked together on a MacBook Pro originally using the <a class="text-red" href="https://atom.io">Atom</a> text editor but is now with <a class="text-red" href="https://code.visualstudio.com/">Visual Studio Code</a>.
+This website was developed with the open-source static site generator <a class="text-red" href="https://gohugo.io/">Hugo</a>. It's continuously built, deployed, and hosted via <a class="text-red" href="https://www.cloudflare.com/">Cloudflare</a>. Responsive layout and front-end components are brought to you by <a class="text-red" href="https://www.getbootstrap.com/">Bootstrap</a>. Icons are provided by <a class="text-red" href="https://www.fontawesome.com/">Font Awesome</a>. It was hacked together on a MacBook Pro originally using the <a class="text-red" href="https://atom.io">Atom</a> text editor but now using <a class="text-red" href="https://code.visualstudio.com/">Visual Studio Code</a>.
 
 Source code for this website can be found on <a class="text-red" href="https://github.com/jackcary/jackcary.com/">GitHub</a>.
 
